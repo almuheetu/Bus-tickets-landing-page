@@ -2,7 +2,7 @@
 	max-width: 1536px;
 	margin: 0 auto;
 }
-
+/* Header */
 .menu-btn {
 	width: 30%;
 	border-radius: 9px !important;
@@ -15,4 +15,45 @@
 }
 .btn.menu-btn i {
 	margin-top: 8px;
+}
+
+
+/* banner */
+.banner-img img {
+	width: 100%;
+}
+.banner-area-content h1 {
+	font-size: 63px;
+	font-weight: bold;
+}
+.banner-area-content h2 {
+	font-size: 63px;
+	font-weight: bold;
+	color: #1DD100;
+}
+.banner-area-content p {
+	font-size: 18px;
+	font-weight: normal;
+}
+.Banner-btn {
+	border-radius: 9px !important;
+	background: #1DD100 !important;
+	border: none !important;
+    width: 15%;
+    font-weight: bold;
+}
+.Banner-btn {
+	border-radius: 9px !important;
+	background: #1DD100 !important;
+	border: none !important;
+	width: 10%;
+	font-weight: bold;
+	height: 53%;
+}
+.btn.Banner-btn span {
+	font-size: 18px;
+	font-weight: bold;
+}
+.banner-area-content {
+	text-align: center;
 }
