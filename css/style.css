@@ -57,3 +57,27 @@
 .banner-area-content {
 	text-align: center;
 }
+.banner-area-content button {
+	margin: 35px;
+}
+.banner-area-content p {
+	padding: 0 30%;
+	margin-top: 20px;
+}
+/* .banner-area-content {
+	position: absolute;
+	top: 20%;
+}
+.banner-area {
+	position: relative;
+}
+.banner-area-content p {
+	padding: 0 22%;
+	margin-top: 20px;
+	color: #fff;
+} */
+/* .banner-area {
+    background-image: url("/images/banner.png"); 
+    background-repeat: no-repeat;
+    width: 100% !important;
+} */
